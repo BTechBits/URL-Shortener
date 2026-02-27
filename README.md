@@ -2,12 +2,7 @@
 URL Shortener
 <!DOCTYPE html>
 <html>
-<head>
-  <title>URL Shortener</title>
-</head>
 <body>
-
-  <h1>🔗 URL Shortener</h1>
 
   <p>
     A simple and fast URL Shortener web application that converts long URLs 
