@@ -23,54 +23,6 @@ URL Shortener
     <li>Fast and lightweight performance</li>
   </ul>
 
-  <h2>🛠️ Tech Stack</h2>
-  <ul>
-    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Backend:</strong> Node.js / Express.js</li>
-    <li><strong>Database:</strong> MongoDB</li>
-  </ul>
-
-  <h2>⚙️ Installation & Setup</h2>
-  <ol>
-    <li>Clone the repository:</li>
-  </ol>
-
-  <pre>
-git clone https://github.com/your-username/url-shortener.git
-  </pre>
-
-  <ol start="2">
-    <li>Navigate to project folder:</li>
-  </ol>
-
-  <pre>
-cd url-shortener
-  </pre>
-
-  <ol start="3">
-    <li>Install dependencies:</li>
-  </ol>
-
-  <pre>
-npm install
-  </pre>
-
-  <ol start="4">
-    <li>Start the server:</li>
-  </ol>
-
-  <pre>
-npm start
-  </pre>
-
-  <ol start="5">
-    <li>Open in browser:</li>
-  </ol>
-
-  <pre>
-http://localhost:3000
-  </pre>
-
   <h2>🧠 How It Works</h2>
   <ol>
     <li>User enters a long URL</li>
@@ -78,13 +30,6 @@ http://localhost:3000
     <li>Short ID is stored in the database with original URL</li>
     <li>When short link is visited, it redirects to the original URL</li>
   </ol>
-
-  <h2>🌍 Live Demo</h2>
-  <p>
-    <a href="https://your-deployed-link.com" target="_blank">
-      Click here to visit the live website
-    </a>
-  </p>
 
   <h2>📌 Future Improvements</h2>
   <ul>
